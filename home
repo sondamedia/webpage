@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>index</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Shrikhand&display=swap" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="navigation">
+    <a href="index.html">HOME</a>
+    <a href="about.html">ABOUT</a>
+    <a href="work.html">WORK</a> 
+    <a href="contact.html">CONTACT</a>
+  </div>
+  </ul>
+	  <h1>Somos Sonda Media<br> y bienvenidxs a nuestra pagina.</h1>
+    <p class="homepage">Una editorial independiente de audiolibros y otros artefactos audíbles.</p>
+</body>
+</html>
